@@ -1,0 +1,48 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.9",
+    "version": "1.0.0",
+    "id": "a903746b-6aa7-4867-89a5-22a95423cd5a",
+    "packageName": "com.microsoft.teams.extension",
+    "developer": {
+        "name": "Teams App, Inc.",
+        "websiteUrl": "https://pocchangeurlonupfe86ad5c.z13.web.core.windows.net",
+        "privacyUrl": "https://pocchangeurlonupfe86ad5c.z13.web.core.windows.net/index.html#/privacy",
+        "termsOfUseUrl": "https://pocchangeurlonupfe86ad5c.z13.web.core.windows.net/index.html#/termsofuse"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "PocChangeUrlOnUpdate",
+        "full": "This field is not used"
+    },
+    "description": {
+        "short": "Short description of PocChangeUrlOnUpdate.",
+        "full": "Full description of PocChangeUrlOnUpdate."
+    },
+    "accentColor": "#FFFFFF",
+    "bots": [],
+    "composeExtensions": [],
+    "configurableTabs": [
+        {
+            "configurationUrl": "https://pocchangeurlonupfe86ad5c.z13.web.core.windows.net/index.html#/config",
+            "canUpdateConfiguration": true,
+            "scopes": [
+                "team"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "pocchangeurlonupfe86ad5c.z13.web.core.windows.net"
+    ],
+    "webApplicationInfo": {
+        "id": "a903746b-6aa7-4867-89a5-22a95423cd5a",
+        "resource": "api://pocchangeurlonupfe86ad5c.z13.web.core.windows.net/a903746b-6aa7-4867-89a5-22a95423cd5a"
+    }
+}

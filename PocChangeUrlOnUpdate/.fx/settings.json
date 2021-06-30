@@ -1,0 +1,20 @@
+{
+    "appName": "PocChangeUrlOnUpdate2",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "2.0.0",
+        "hostType": "Azure",
+        "capabilities": [
+            "Tab"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-local-debug",
+            "fx-resource-frontend-hosting",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-simple-auth"
+        ]
+    },
+    "currentEnv": "default",
+    "projectId": "1813db26-3d33-4792-a6bd-746617964088"
+}
